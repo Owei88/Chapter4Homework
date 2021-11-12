@@ -1,7 +1,7 @@
 
 import java.io.PrintStream;
 import java.util.Scanner;
-
+//a
 public class SpaTester {
     public static void main(String[] args) {
         SpaRewards reward;
